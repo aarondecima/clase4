@@ -1,0 +1,42 @@
+[
+    {
+        "nombre":"Gerardo",
+        "dni": 24911146,
+        "tieneCurso": true,
+        "domicilio": {
+            "calle": "RioBamba",
+            "numero": 158,
+            "localidad": "José C. Paz"
+        }
+    },
+    {
+        "nombre":"Florencia",
+        "dni": 24911149,
+        "tieneCurso": true,
+        "domicilio": {
+            "calle": "La Rioja",
+            "numero": 2995,
+            "localidad": "San Miguel"
+        }
+    },
+    {
+        "nombre":"Juan Alberto",
+        "dni": 24911123,
+        "tieneCurso": false,
+        "domicilio": {
+            "calle": "Fuengirola",
+            "numero": 1543,
+            "localidad": "Málaga"
+        }
+    },
+    {
+        "nombre":"Maria Isabel",
+        "dni": 40913446,
+        "tieneCurso": true,
+        "domicilio": {
+            "calle": "Cala de Mijas",
+            "numero": 2345,
+            "localidad": "Andalucía"
+        }
+    }
+]
