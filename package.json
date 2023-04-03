@@ -1,0 +1,27 @@
+{
+  "name": "pres",
+  "version": "1.0.0",
+  "description": "![Yo](./imagenes/NAD.jpg \"Este soy yo\")",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./src/app.js",
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarondecima/presentacion_personal.git"
+  },
+  "author": "aaron decima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarondecima/presentacion_personal/issues"
+  },
+  "homepage": "https://github.com/aarondecima/presentacion_personal#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
