@@ -1,8 +1,8 @@
 # API para consultar los alumnos
 
-Esta es una api simple para consultar los alumnos. 
+Esta es una api simple para consultar los alumnos.
 
-Para correr este proyecto siga los siguientes pasos: 
+Para corres este proyecto siga los siguiente pasos:
 
-- 'nmp i'
-- 'npm start'
+- `npm i`
+- `npm start`
